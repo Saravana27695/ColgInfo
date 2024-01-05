@@ -3,6 +3,7 @@ package org.college;
 public class College {
 	private void collegeName() {
 		System.out.println("greens institute");
+		System.out.println("greens ");
 
 	}
 private void collegeCode() {
