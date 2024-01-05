@@ -3,7 +3,7 @@ package org.college;
 public class College {
 	private void collegeName() {
 		System.out.println("greens institute");
-
+sysout
 	}
 private void collegeCode() {
 	System.out.println("1108");
