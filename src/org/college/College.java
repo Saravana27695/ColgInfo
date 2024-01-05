@@ -2,9 +2,7 @@ package org.college;
 
 public class College {
 	private void collegeName() {
-		System.out.println("greens institute"
-sysout
-		System.out.println("greens ");
+		System.out.println("greens institute")
 
 
 	}
